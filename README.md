@@ -1,4 +1,6 @@
-<img title="atlantis-watch" style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://atlantisstream.io/images/atlantis-logo.png">
+<p align="center" width="100%">
+  <img title="atlantis-watch" style="" src="https://atlantisstream.io/images/atlantis-logo.png">
+</p>
 <h1 align="center" style="font-size:60px;"> AtlantisWatch</h1>
 
 <p align="center">
