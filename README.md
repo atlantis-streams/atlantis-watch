@@ -1,4 +1,3 @@
-<img title="atlantis-watch" style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://atlantisstream.io/images/atlantis-logo.png">
 <h1 align="center" style="font-size:60px;"> AtlantisWatch</h1>
 
 <p align="center">
@@ -13,7 +12,6 @@
     <a href="https://atlantisstream.iot/">Website</a>
     — <a href="https://twitter.com/atlantisstream">Twitter</a>
     — <a href="https://t.me/atlantisstreams">Telegram</a>
-    — <a href="https://github.com/ActivityWatch/activitywatch/releases">Discord</a>
   </b>
 </p>
 
