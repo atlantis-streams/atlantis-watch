@@ -15,7 +15,6 @@
     <a href="https://atlantisstream.iot/">Website</a>
     — <a href="https://twitter.com/atlantisstream">Twitter</a>
     — <a href="https://t.me/atlantisstreams">Telegram</a>
-    — <a href="https://github.com/ActivityWatch/activitywatch/releases">Discord</a>
   </b>
 </p>
 
